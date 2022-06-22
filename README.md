@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Watch it live](https://nft-preview-card-component-wheat.vercel.app/)
+- Live Site URL: [Watch it live here](https://nft-preview-card-component-wheat.vercel.app/)
 
 ## My process
 
